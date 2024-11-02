@@ -1,2 +1,3 @@
-# Sales-Data-Analytics
-Sales data analysis using Python and Power BI
+Lib required:
+
+pip install pandas seaborn matplotlib 
